@@ -5,4 +5,5 @@ The device consists of three PCB:
 - LCD display board
 - main board
 - receiver board
+
 Firmware: https://github.com/m-xor/Thermometer_receiver
