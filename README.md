@@ -5,8 +5,6 @@ The device consists of three PCB:
 - LCD display board
 ![PCB top](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/top.JPG)
 ![PCB bottom](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/bottom.JPG)
-![Fit to case](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/fit_front.JPG)
-![Fit to case](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/fit_side.JPG)
 - main board
 - receiver board
 
