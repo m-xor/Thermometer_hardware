@@ -3,8 +3,10 @@
 PCBs designed for ZS60 universal case https://www.tme.eu/pl/details/z60-abs/obudowy-z-panelem/kradex/z60-abs/
 The device consists of three PCB:
 - LCD display board
-* ![Fit to case](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/IMGP1703_small.JPG)
-photos/IMGP1703.JPG
+* ![PCB top](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/top.JPG)
+* ![PCB bottom](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/bottom.JPG)
+* ![Fit to case](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/fit_front.JPG)
+* ![Fit to case](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/fit_side.JPG)
 - main board
 - receiver board
 
