@@ -6,7 +6,8 @@ The device consists of three PCB:
 ![PCB top](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/top.JPG)
 ![PCB bottom](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/bottom.JPG)
 - main board
-  * t.b.d.
+![Main board top](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/IMGP1769.JPG)
+![Main board bottom](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/IMGP1770.JPG)
 - receiver board
   * t.b.d.
 
