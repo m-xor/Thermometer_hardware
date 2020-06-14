@@ -9,6 +9,9 @@ The device consists of three PCB:
 ![Main board top](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/IMGP1769.JPG)
 ![Main board bottom](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/IMGP1770.JPG)
 - receiver board
-  * t.b.d.
+![Receiver board top](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/IMGP1775.JPG)
+![Receiver board bottom](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/IMGP1776.JPG)
+- The device
+![Device](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/IMGP1781.JPG)
 
 Firmware: https://github.com/m-xor/Thermometer_receiver
