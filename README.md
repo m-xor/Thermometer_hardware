@@ -15,3 +15,7 @@ The device consists of three PCB:
 ![Device](https://github.com/m-xor/Thermometer_hardware/blob/master/photos/IMGP1781.JPG)
 
 Firmware: https://github.com/m-xor/Thermometer_receiver
+
+- Known issues
+ * power socket is placed to deep
+ * PA9, PA10 could be routed to solder pads in case of need accessing bootloader
